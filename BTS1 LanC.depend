@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742766702 source:c:\users\bawa abdoul-rachid\desktop\nouveau dossier\projects\bts1 lanc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
